@@ -1,0 +1,14 @@
+/media/sara/Progs26/frontend/C--Practices/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject
+/media/sara/Progs26/frontend/C--Practices/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/media/sara/Progs26/frontend/C--Practices/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/media/sara/Progs26/frontend/C--Practices/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.dll
+/media/sara/Progs26/frontend/C--Practices/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.pdb
+/media/sara/Progs26/frontend/C--Practices/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/media/sara/Progs26/frontend/C--Practices/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/media/sara/Progs26/frontend/C--Practices/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/media/sara/Progs26/frontend/C--Practices/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/media/sara/Progs26/frontend/C--Practices/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.dll
+/media/sara/Progs26/frontend/C--Practices/CsharpProjects/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/media/sara/Progs26/frontend/C--Practices/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.pdb
+/media/sara/Progs26/frontend/C--Practices/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/media/sara/Progs26/frontend/C--Practices/CsharpProjects/TestProject/obj/Debug/net8.0/ref/TestProject.dll
